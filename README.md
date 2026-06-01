@@ -175,6 +175,12 @@ node -e "require('dotenv').config(); console.log(process.env.ADMIN_SECRET)"
 - `ENOENT package.json` when running `npm start` in the repo root: make sure you `cd frontend` or use the root scripts.
 
 ---
+## Output
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/2b6ad508-f23d-48db-84a0-b20dc6d97379" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5beb11ab-35e6-4fd0-839e-5168812bba48" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0b122e0c-f436-4062-ae87-27c35780d684" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/ba2e0fcb-6e67-4ce6-8219-5a7a6f6f8bd4" />
+
 
 ## Next steps / Improvements
 
